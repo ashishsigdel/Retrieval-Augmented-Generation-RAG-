@@ -1,0 +1,1 @@
+![RAG Architecture](https://i.postimg.cc/VkLZHpd8/Screenshot-2025-11-20-at-3-53-09-PM.png)
